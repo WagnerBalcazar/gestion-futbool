@@ -4,6 +4,10 @@ UML DEL DIAGRAMA SELECCIONADO
 ![image](https://github.com/user-attachments/assets/15c98c02-df99-492e-ad0d-afbddcf1b2d9)
 EJECUCION
 ![image](https://github.com/user-attachments/assets/03d9fff3-0086-45f6-b979-e3e09999feeb)
+
+
+
+
 UML DE MI DIAGRAMA
 ![image](https://github.com/user-attachments/assets/a8339f2d-16aa-4aee-b3d0-6ff79ac6cf2e)
 EJECUCION
